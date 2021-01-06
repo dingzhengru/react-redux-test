@@ -1,7 +1,8 @@
 # react-redux-test
 
 **使用 hooks + react-redux**
-很多文章是用 class & connect 的方式，這裡是使用 hooks
+
+> note: 很多舊文章是用 class + connect 的方式，要注意別搞混用法
 
 參考文章:
 
